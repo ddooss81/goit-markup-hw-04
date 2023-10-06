@@ -226,6 +226,7 @@ header  {
     }
 
     .section_second_title {
+        margin-top: 8px;
         margin-bottom: 8px;
         font-weight: 500;
         font-size: 20px;
