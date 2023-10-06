@@ -45,6 +45,7 @@ body {
 
 header  {
         border-bottom: 1px solid #e7e9fc;
+        
 }
     .container {
         /*display: flex;*/
@@ -261,7 +262,8 @@ header  {
         background-color: #FFFFFF;
         width: calc((100% - 72px) / 4);
         border-radius: 0px 0px 4px 4px;
-    }
+        box-shadow: 0px 2px 1px 0px rgba(46, 47, 66, 0.08), 0px 1px 1px 0px rgba(46, 47, 66, 0.16), 0px 1px 6px 0px rgba(46, 47, 66, 0.08);
+}
 
     .staff{
         padding: 32px 0;
@@ -274,6 +276,12 @@ header  {
         letter-spacing: 0.02em;
         color: #434455;
     }
+
+    .svg_section_three_icon {
+        fill: #fff;
+        background-color: #4D5AE5;
+    }
+    
     .team_list {
         text-align: center;
         margin-bottom: 8px;
