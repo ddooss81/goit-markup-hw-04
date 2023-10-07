@@ -213,7 +213,7 @@ header  {
 
     .section_two_icon{
         margin-bottom: 8px;
-        height: 64px;
+        height: 112px;
         width: 100%;
         padding-top: 24px;
         padding-bottom: 24px;
@@ -221,10 +221,13 @@ header  {
         display: flex;
         align-items: center;
         justify-content: center;
-        background-color: rgba(244, 244, 253, 1);
         border-radius: 4px;
+        background-color: #f4f4fd;
     }    
-
+        .section_two_icon_svg{
+            height: 64px;
+            width: 64px;
+        }
     .visually-hidden {
         position: absolute;
         width: 1px;
