@@ -159,7 +159,6 @@ header  {
         background-position: center;
         max-width: 1440px;
         background-size: cover;
-        transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
     }
 
     .section_h_first {
@@ -192,6 +191,7 @@ header  {
         letter-spacing: 0.04em;
         color: #ffffff;
         cursor: pointer;
+        transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
     }
     
     .class_botoom:hover, .class_botoom:focus {
