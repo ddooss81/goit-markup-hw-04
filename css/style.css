@@ -224,10 +224,7 @@ header  {
         border-radius: 4px;
         background-color: #f4f4fd;
     }    
-        .section_two_icon_svg{
-            height: 64px;
-            width: 64px;
-        }
+
     .visually-hidden {
         position: absolute;
         width: 1px;
