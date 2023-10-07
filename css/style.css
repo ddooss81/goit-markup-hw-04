@@ -151,6 +151,8 @@ header  {
     
     
     .section_first {
+        margin-left: auto;
+        margin-right: auto;
         padding: 188px 0;
         background-color: #2e2f42;
         letter-spacing: 0.02em;
