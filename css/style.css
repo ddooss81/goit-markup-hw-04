@@ -433,13 +433,10 @@ header  {
         .footer_div{
             display: flex;
             align-items: baseline;
-
-        }
-
-        .logo_div{
             margin-right: 120px;
+
         }
-        
+
         .logo_footer_start{
             font-family: "Raleway", sans-serif;
             font-weight: 700;
@@ -465,9 +462,9 @@ header  {
             margin-bottom: 16px;
         }
                 
-        .soc_div_footer{
+        /* .soc_div_footer{
             margin-right: 120px
-        }
+        } */
 
         .footer_soc_li{
             display: flex;
