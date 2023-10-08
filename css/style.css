@@ -435,6 +435,10 @@ header  {
             align-items: baseline;
 
         }
+
+        .logo_div{
+            margin-right: 120px;
+        }
         
         .logo_footer_start{
             font-family: "Raleway", sans-serif;
@@ -452,7 +456,7 @@ header  {
         }
 
         .p_footer_soc{
-            margin-right: 120px;
+            /* margin-right: 120px; */
             font-weight: 500;
             font-size: 16px;
             line-height: 1.5;
@@ -535,6 +539,7 @@ header  {
             color: #F4F4FD;
             letter-spacing: 0.02em;
             line-height: 24px;
+            margin-bottom: 16px;
         }
 
 
