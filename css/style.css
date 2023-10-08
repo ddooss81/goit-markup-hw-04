@@ -431,10 +431,13 @@ header  {
                             /* FOOTER */
 
         .footer_div{
-            display: flex;
-            align-items: baseline;
             margin-right: 120px;
 
+        }
+
+        .container_div {
+            display: flex;
+            align-items: baseline;
         }
 
         .logo_footer_start{
