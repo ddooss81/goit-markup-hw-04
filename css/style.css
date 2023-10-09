@@ -92,12 +92,20 @@ header  {
     color: #404bbf;
     }
 
+        .header_menu li:first-child a.nav_list::after{
+           width: 100%;
+        } 
+
+        .header_menu li:first-child a.nav_list{
+            color: #404bbf;
+        }
+
     .nav_list {
             position: relative; 
             display: flex;
             gap: 40px;
             padding: 24px 0;
-            color: #404bbf;
+            color: #2E2F42;
             background-color: rgba(255, 255, 255, 1);
             line-height: 1.5;
             font-weight: 500;
@@ -292,6 +300,7 @@ header  {
     .section_third_p {
         text-align: center;
         font-size: 16px;
+        margin-bottom: 8px;
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #434455;
